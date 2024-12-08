@@ -1,4 +1,4 @@
-# FundamentalsofElectricalEngineering_semester5
+# fundamentals-of-electrical-engineering-semester-5
 Выполнение лабораторных работ и домашних заданий по предмету "Основы электротехники" на 5-ом семестре Университета ИТМО
 
 ## Статистика ЛР
